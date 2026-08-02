@@ -1,0 +1,15 @@
+# 自动下载的依赖 / 构建产物 / 发布目录
+deps/
+build/
+publish/
+bin/
+obj/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+Thumbs.db
+ehthumbs.db
+Desktop.ini
