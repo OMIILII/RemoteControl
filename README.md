@@ -79,7 +79,3 @@ RemoteControlAgent.exe --uninstall  # 卸载服务
 | 6 | Ping | 无 |
 
 中继只做配对转发，不解析 payload。
-
-## License
-
-MIT
